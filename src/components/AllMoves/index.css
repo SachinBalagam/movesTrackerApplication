@@ -1,0 +1,77 @@
+.bold {
+  font-weight: bold;
+}
+.each-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px;
+}
+.moving {
+  width: 400px;
+}
+.each-icon {
+  font-size: 30px;
+  margin: 10px;
+  color: rgb(194, 86, 23);
+}
+.quotes-button {
+  background-color: rgb(194, 86, 23);
+  color: #ffffff;
+  height: 40px;
+  width: 180px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.view-more-button {
+  background-color: transparent;
+  border: 2px solid rgb(194, 86, 23);
+  height: 40px;
+  width: 180px;
+  color: rgb(194, 86, 23);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.request-id {
+  color: rgb(194, 86, 23);
+  font-weight: bold;
+}
+.line {
+  border-color: #d4d0d0;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.custom-button {
+  background-color: black;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 5px;
+  height: 40px;
+  width: 180px;
+}
+.color {
+  font-weight: bold;
+  color: rgb(194, 86, 23);
+}
+.Customcard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(240, 233, 231);
+  color: rgb(194, 86, 23);
+  margin-bottom: 5px;
+  padding: 10px;
+  font-weight: bold;
+}
+.icon-button {
+  background-color: transparent;
+  border: none;
+  color: rgb(194, 86, 23);
+  cursor: pointer;
+}

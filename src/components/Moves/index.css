@@ -1,0 +1,23 @@
+.bg-container {
+  min-height: 100vh;
+  padding: 20px;
+}
+.main-container {
+  display: flex;
+}
+.list-container {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 20px;
+}
+.success-contianer {
+  margin-left: 30px;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 70vw;
+  min-height: 70vh;
+}

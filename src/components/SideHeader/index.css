@@ -1,0 +1,7 @@
+.side-each-container {
+  display: flex;
+  align-items: center;
+}
+.nav-logo {
+  margin-right: 10px;
+}
